@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gnsz
+- 👋 Hi, I’m Gung Angga
 - 👀 I’m interested in data science, web development, and digital innovation.
 - 🌱 I’m currently learning JavaScript, web design, and data analysis.
 - 💞️ I’m looking to collaborate on open-source projects, data-driven applications, and creative web development.
